@@ -2,7 +2,8 @@
 
 ![image](https://user-images.githubusercontent.com/124582454/218455671-22909187-b74e-4eaf-8aad-2b4dc4efcf82.png)
  
- to enter sqlite, we use the command :
+ to enter sqlite, we use the command in the prompt :
  ```
  sqlite3
  ```
+and to create a database , we use the command [name].db
