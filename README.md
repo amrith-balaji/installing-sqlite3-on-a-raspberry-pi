@@ -29,5 +29,5 @@ VALUES (value1, value2, value3,...valueN);
 ```
 to view the table we :
 ```
-
-
+SELECT * FROM {TABLE_NAME}
+```
